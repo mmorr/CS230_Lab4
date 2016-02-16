@@ -1,0 +1,18 @@
+*{font-family: "Arial", Sans-Serif;}
+*{font-size: large;}
+
+table.main{
+    width: 100%;
+}
+
+td.poll{
+    width: 20%;
+}
+
+td.m{
+    width: 60%;
+}
+
+p.mainText{
+    font-size: 150%;
+}
